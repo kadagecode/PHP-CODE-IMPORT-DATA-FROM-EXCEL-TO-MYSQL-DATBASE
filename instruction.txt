@@ -1,0 +1,3 @@
+1.1st you need to save excel file .csv format.
+2.Seelect name from dropdown,browse file using browse button and click submit.
+3.If it's a csv file it will import into a databse specified in db file.
